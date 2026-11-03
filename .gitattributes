@@ -1,1 +1,2 @@
 film/Roziel_Bryzky_Popelu_25min_UA.mp4 filter=lfs diff=lfs merge=lfs -text
+artwork/Roziel_Illustrations.zip filter=lfs diff=lfs merge=lfs -text
